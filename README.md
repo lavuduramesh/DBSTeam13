@@ -1,6 +1,6 @@
 # DBSTeam13
-git checkout -b feature/apipoints 
 
+Steps to contribute
 ```
 git checkout -b feature/loginpage
 git add .
